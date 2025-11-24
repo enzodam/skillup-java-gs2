@@ -148,7 +148,9 @@ A API está rodando no Render:
 
 ## Vídeo demonstrativo
 
-[Vídeo]()
+[Vídeo](https://youtu.be/JDsNKfD_MQo)
+
+[Vídeo Pitch](https://youtu.be/NfSVp-wQ8BQ)
 
 ---
 
