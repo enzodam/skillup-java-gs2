@@ -142,7 +142,7 @@ Mensageria
 ## Deploy na nuvem
 A API está rodando no Render:
 
-[aplicção](https://skillup-java-gs2.onrender.com/)
+[aplicação](https://skillup-java-gs2.onrender.com/)
 
 ---
 
